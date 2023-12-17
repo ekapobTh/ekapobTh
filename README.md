@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently studying on Msc. Computer Games Programming at Teesside University.
 - 🌱 I’m intensively learning C++ presently.
-- ⚡ Fun fact: I love Games, Manga, and Gadgets.
+- ⚡ Fun fact: I love Games, Manga, and Memes.
