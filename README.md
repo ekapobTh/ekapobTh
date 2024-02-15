@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently studying on MSc. Computer Games Programming at Teesside University.
 - 🌱 I’m intensively learning C++ presently.
-- 💬 Ask me about anything, I'll ask my mom later.
+- 💬 Ask me about anything.
 - 📫 How to reach me: **ekapob.tham@gmail.com**
 - ⚡ Fun fact: I love Games, Manga, and Memes.
