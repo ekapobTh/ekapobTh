@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="350" src="https://drive.google.com/uc?export=view&id=1dogtFcCMfFGlpd_bYAd9rEDbTbgb5-PD"/>
 
 - 🔭 I’m currently studying on MSc. Computer Games Programming at Teesside University.
-- 🌱 I’m intensively learning C++ presently without relying on any game engine.
+- 🌱 I’m intensively learning C++ presently.
 - 💬 Ask me about anything.
 - 📫 How to reach me: **ekapob.tham@gmail.com**
 - ⚡ Fun fact: I love Games, Manga, and Memes.
