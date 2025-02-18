@@ -2,6 +2,4 @@
 
 <h1 align="center">I'm Ekapob, you can also call me John.</h1>
 
-<img align="right" alt="coding" width="350" src="https://drive.google.com/uc?export=view&id=1dogtFcCMfFGlpd_bYAd9rEDbTbgb5-PD"/>
-
 - 📫 How to reach me: **ekapob.tham@gmail.com**
